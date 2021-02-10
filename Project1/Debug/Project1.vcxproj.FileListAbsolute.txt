@@ -1,0 +1,4 @@
+C:\Users\Пользователь\source\repos\cpp_practice0\Project1\Debug\Project1.exe
+C:\Users\Пользователь\source\repos\cpp_practice0\Project1\Debug\Project1.pdb
+C:\Users\home\source\repos\cpp_practice_local\Project1\Debug\Project1.exe
+C:\Users\home\source\repos\cpp_practice_local\Project1\Debug\Project1.pdb
